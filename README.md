@@ -24,7 +24,7 @@ python text_process.py
 You can run the command
 
 ```python
-python modelstm.py
+python main.py
 ```
 When you run this command, please sure you have run the data preprocessing file `text_process.py`.
 
