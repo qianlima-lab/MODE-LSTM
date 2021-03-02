@@ -1,5 +1,5 @@
 # MODE-LSTM
-The repository for EMNLP 2020 accepted paper "MODE-LSTM: A Parameter-efficient Recurrent Network with Multi-Scale for Sentence Classification"
+The repository for EMNLP 2020 accepted paper ["MODE-LSTM: A Parameter-efficient Recurrent Network with Multi-Scale for Sentence Classification"](https://www.aclweb.org/anthology/2020.emnlp-main.544.pdf).
 
 ###  Dependencies
 
